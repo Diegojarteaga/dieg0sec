@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>dieg0sec</title>
+    <link>https://diegojarteaga.github.io/dieg0sec/</link>
+    <description>Recent content on dieg0sec</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Jul 2023 13:36:35 -0500</lastBuildDate><atom:link href="https://diegojarteaga.github.io/dieg0sec/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://diegojarteaga.github.io/dieg0sec/docs/test/</link>
+      <pubDate>Tue, 04 Jul 2023 13:36:35 -0500</pubDate>
+      
+      <guid>https://diegojarteaga.github.io/dieg0sec/docs/test/</guid>
+      <description>Installing Hugo and creating our site First things first we need to install Hugo by referencing Hugo&amp;rsquo;s documentation Here.
+I&amp;rsquo;m on Linux using Debian so I&amp;rsquo;ll run the following command:
+sudo apt install hugo Once Hugo is installed we&amp;rsquo;ll run the following command to generate our new site:
+hugo new site dieg0sec -f yml We are passing in the optional &amp;ldquo;-f yml&amp;rdquo; to change the configuration file to a yml instead of the default toml.</description>
+    </item>
+    
+  </channel>
+</rss>
